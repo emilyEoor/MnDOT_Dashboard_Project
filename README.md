@@ -1,9 +1,9 @@
 # Minnesota Traffic Monitoring Dashboard
 
-Author: Emily Oor  
-Dashboard: View the dashboard on [Tableau Public](https://public.tableau.com/views/TrafficPatterns_17619307813410/Dashboard12?:language=en-US&publish=yes).
+**Author**: Emily Oor  
+**Dashboard**: View the dashboard on [Tableau Public](https://public.tableau.com/views/TrafficPatterns_17619307813410/Dashboard12?:language=en-US&publish=yes).
 
-Full Report: MinnesotaDOTproject.pdf
+**Full Report**: [MinnesotaDOTproject.pdf](reports/MinnesotaDOTproject.pdf)
 
 ## Overview
 
@@ -17,7 +17,8 @@ Key steps included duplicate removal, standardizing weather categories, extendin
 
 ## Dashboard Features
 
-- Year, month, and holiday filters
+- Year and month filters
+- Holiday highlight action
 - Line, heatmap, bar, and treemap visualizations
 - PDF export for easy sharing
 
